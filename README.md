@@ -9,7 +9,8 @@ Hydro is a **Universal Redirect** for Fortnite. It is a DLL that sends the game'
 - Supports x86 and x64 builds.
 - Logs every redirect to the console.
 
-## Supported Versions
+<details>
+  <summary><h2>Supported Versions</h2></summary>
 
 | Version | Engine | Architecture | Tested |
 | --- | --- | --- | --- |
@@ -23,6 +24,8 @@ Hydro is a **Universal Redirect** for Fortnite. It is a DLL that sends the game'
 - **Executable:** Hydro's hooks were tested against the code from the game's executable, without running the game.
 
 Hydro may support more versions than the ones listed here. Some versions are unavailable or lost, so they cannot be tested.
+
+<details>
 
 ## Configuration
 
